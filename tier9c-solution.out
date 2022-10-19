@@ -1,0 +1,51 @@
+                        
+                        
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Belt (1) or Station (2):> Input an option in the range 1-2
+
+Add another component (n to stop):> Belt (1) or Station (2):> Input an option in the range 1-2
+
+Add another component (n to stop):> Belt (1) or Station (2):> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Percentage of box:> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Minimum units:> Cannot accept value
+
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Minimum units:> Maximum units:> Cannot accept value
+
+Add another component (n to stop):> 
+
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> 

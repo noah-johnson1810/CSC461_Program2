@@ -1,0 +1,833 @@
+                        
+                        
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Number of units:> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Percentage of box:> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Number of units:> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Percentage of box:> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Minimum units:> Maximum units:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Number of units:> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Minimum units:> Maximum units:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Percentage of box:> Packaging behavior: None (1), Basic (2), or Restricted (3):> Number of boxes per package:> Minimum units:> Maximum units:> 
+Add another component (n to stop):>                                                                         
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 35                                                                      
+0                                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     35                                                                  
+    0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+        35                                                              
+        0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+            35                                                          
+            2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                35                                                      
+                2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                    35                                                  
+                    3                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                        35                                              
+                        3                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                            35                                          
+                            3                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                35                                      
+                                3                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                    35                                  
+                                    4                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                        
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 36                                                                      
+0                                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     36                                                                  
+    0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+        36                                                              
+        0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+            36                                                          
+            2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                36                                                      
+                2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                    36                                                  
+                    3                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                        36                                              
+                        3                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                            36                                          
+                            3                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                36                                      
+                                3                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                    36                                  
+                                    5                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                        36                              
+                                        5                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                            36                          
+                                            6                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                        
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 37                                                                      
+0                                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     37                                                                  
+    0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+        37                                                              
+        0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+            37                                                          
+            2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                37                                                      
+                2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                    37                                                  
+                    4                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                        37                                              
+                        4                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                            37                                          
+                            4                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                37                                      
+                                4                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                    37                                  
+                                    6                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                        37                              
+                                        6                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                            37                          
+                                            8                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                37                      
+                                                8                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                    37                  
+                                                    8                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                        
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 38                                                                      
+0                                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     38                                                                  
+    0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+        38                                                              
+        0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+            38                                                          
+            2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                38                                                      
+                2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                    38                                                  
+                    6                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                        38                                              
+                        6                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                            38                                          
+                            6                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                38                                      
+                                6                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                    38                                  
+                                    8                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                        38                              
+                                        8                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                            38                          
+                                            12                          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                38                      
+                                                12                      
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                    38                  
+                                                    12                  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                        38              
+                                                        12              
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                            38          
+                                                            14          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                        
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 39                                                                      
+0                                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     39                                                                  
+    0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+        39                                                              
+        0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+            39                                                          
+            2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                39                                                      
+                2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                    39                                                  
+                    7                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                        39                                              
+                        7                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                            39                                          
+                            7                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                39                                      
+                                7                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                    39                                  
+                                    9                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                        39                              
+                                        9                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                            39                          
+                                            14                          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                39                      
+                                                14                      
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                    39                  
+                                                    14                  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                        39              
+                                                        14              
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                            39          
+                                                            16          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                39      
+                                                                16      
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                    39  
+                                                                    20  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                        
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: False
+Packaging: None
+
+Station 3
+Has box: False
+Packaging: None
+
+Station 4
+Has box: False
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+Station 5
+Has box: False
+Packages every 3 boxes
+Currently has unpackaged box ids: 35
+Packages Complete: 0
+
+Station 6
+Has box: False
+Packages every 4 boxes
+Currently has unpackaged box ids: 36
+Packages Complete: 0
+
+Station 7
+Has box: False
+Size range [6, 10]
+Packages every 2 boxes
+Currently has unpackaged box ids: 37
+Packages Complete: 0
+
+Station 8
+Has box: False
+Size range [11, 15]
+Packages every 2 boxes
+Currently has unpackaged box ids: 38
+Packages Complete: 0
+
+Station 9
+Has box: False
+Size range [16, 20]
+Packages every 1 boxes
+Currently has unpackaged box ids:
+Packages Complete: 1
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 40                                                                      
+0                                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     40                                                                  
+    0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 41  40                                                                  
+0   0                                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     41  40                                                              
+    0   0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 42  41  40                                                              
+0   0   0                                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     42  41  40                                                          
+    0   0   2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 43  42  41  40                                                          
+0   0   0   2                                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     43  42  41  40                                                      
+    0   0   2   2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 44  43  42  41  40                                                      
+0   0   0   2   2                                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     44  43  42  41  40                                                  
+    0   0   2   2   3                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 45  44  43  42  41  40                                                  
+0   0   0   2   2   3                                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     45  44  43  42  41  40                                              
+    0   0   2   2   3   3                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 46  45  44  43  42  41  40                                              
+0   0   0   2   2   3   3                                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     46  45  44  43  42  41  40                                          
+    0   0   2   2   4   3   3                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 47  46  45  44  43  42  41  40                                          
+0   0   0   2   2   4   3   3                                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     47  46  45  44  43  42  41  40                                      
+    0   0   2   2   6   4   3   3                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 48  47  46  45  44  43  42  41  40                                      
+0   0   0   2   2   6   4   3   3                                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     48  47  46  45  44  43  42  41  40                                  
+    0   0   2   2   7   6   4   3   4                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 49  48  47  46  45  44  43  42  41  40                                  
+0   0   0   2   2   7   6   4   3   4                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     49  48  47  46  45  44  43  42  41                                  
+    0   0   2   2   12  7   6   4   5                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 50  49  48  47  46  45  44  43  42  41                                  
+0   0   0   2   2   12  7   6   4   5                                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     50  49  48  47  46  45  44  43  42  41                              
+    0   0   2   2   2   12  7   6   6   5                               
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>         50  49  48  47  46  45  44  43  42  41                          
+        0   2   2   7   2   12  7   8   6   6                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+            50  49  48  47  46  45  44  43  42                          
+            2   2   4   7   2   12  9   8   8                           
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                50  49  48  47  46  45  44  43  42                      
+                2   4   4   7   2   14  9   12  8                       
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                    50  49  48  47  46  45  44  43  42                  
+                    6   4   4   7   3   14  14  12  8                   
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                        50  49  48  47      45  44  43                  
+                        6   4   4   9       24  14  12                  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                            50  49  48  47      45  44  43              
+                            6   4   6   9       24  14  12              
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                50  49  48  47      45  44  43          
+                                6   6   6   14      24  14  14          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                    50  49  48  47      45  44          
+                                    8   6   8   14      24  16          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                        50  49  48  47      45  44      
+                                        8   8   8   14      26  16      
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                            50  49  48  47      45  44  
+                                            12  8   8   14      26  20  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                50  49      47      45  
+                                                12  8       16      36  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                    50          47      
+                                                    12          16      
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                        50          47  
+                                                        12          20  
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                            50          
+                                                            14          
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+                                                                        
+                                                                        
+----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX----XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: False
+Packaging: None
+
+Station 3
+Has box: False
+Packaging: None
+
+Station 4
+Has box: False
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+Station 5
+Has box: False
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 1
+
+Station 6
+Has box: False
+Packages every 4 boxes
+Currently has unpackaged box ids: 36, 41
+Packages Complete: 0
+
+Station 7
+Has box: False
+Size range [6, 10]
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 2
+
+Station 8
+Has box: False
+Size range [11, 15]
+Packages every 2 boxes
+Currently has unpackaged box ids: 50
+Packages Complete: 1
+
+Station 9
+Has box: False
+Size range [16, 20]
+Packages every 1 boxes
+Currently has unpackaged box ids:
+Packages Complete: 3
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> 

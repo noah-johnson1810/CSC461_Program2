@@ -1,0 +1,678 @@
+                        
+                        
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>                                 
+                                
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 23                              
+0                               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     23                          
+    0                           
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 24  23                          
+0   0                           
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     24  23                      
+    0   0                       
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 25  24  23                      
+0   0   0                       
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     25  24  23                  
+    0   0   0                   
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 26  25  24  23                  
+0   0   0   0                   
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     26  25  24  23              
+    0   0   0   2               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: True
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>         26  25  24              
+        0   0   2               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids: 23
+Packages Complete: 0
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>             26  25              
+            0   2               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 1
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>                 26              
+                2               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids: 25
+Packages Complete: 1
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>                                 
+                                
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: False
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 2
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 27                              
+0                               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     27                          
+    0                           
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 28  27                          
+0   0                           
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     28  27                      
+    0   0                       
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 29  28  27                      
+0   0   0                       
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     29  28  27                  
+    0   0   0                   
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 30  29  28  27                  
+0   0   0   0                   
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     30  29  28  27              
+    0   0   0   2               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 31  30  29  28  27              
+0   0   0   0   2               
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     31  30  29  28  27          
+    0   0   0   2   2           
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: True
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 2
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>         31  30  29  28  27      
+        0   0   2   2   2       
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids:
+Packages Complete: 2
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>             31  30      28  27  
+            0   2       2   5   
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids: 29
+Packages Complete: 2
+
+Station 3
+Has box: True
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>                 31  30      28  
+                2   2       7   
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: True
+Packages every 2 boxes
+Currently has unpackaged box ids: 29
+Packages Complete: 2
+
+Station 3
+Has box: True
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids: 27
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>                     31  30      
+                    2   2       
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: False
+Packages every 2 boxes
+Currently has unpackaged box ids: 29
+Packages Complete: 2
+
+Station 3
+Has box: False
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids: 27, 28
+Packages Complete: 0
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>                         31  30  
+                        2   4   
+----XXXX--------XXXX--------XXXX
+                            31  
+                            1002
+----XXXX--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: False
+Packaging: None
+
+Station 2
+Has box: False
+Packages every 2 boxes
+Currently has unpackaged box ids: 29
+Packages Complete: 2
+
+Station 3
+Has box: True
+Size range [0, 1000]
+Packages every 3 boxes
+Currently has unpackaged box ids:
+Packages Complete: 1
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> 
