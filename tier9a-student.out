@@ -1,0 +1,164 @@
+                        
+                        
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):>             
+            
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> 32          
+0           
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     32      
+    0       
+--------XXXX
+        32  
+        0   
+--------XXXX
+            
+            
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 33          
+0           
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     33      
+    0       
+--------XXXX
+        33  
+        0   
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Station 1
+Has box: True
+Packaging: None
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):> Belt (1) or Station (2):> Load behavior: None (1), Basic (2), or Percentage (3):> Packaging behavior: None (1), Basic (2), or Restricted (3):> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):> Belt (1) or Station (2):> Length:> 
+Add another component (n to stop):>                         
+                        
+XXXX----XXXXXXXX--------
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> 34                      
+0                       
+XXXX----XXXXXXXX--------
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     34                  
+    0                   
+XXXX----XXXXXXXX--------
+        34              
+        0               
+XXXX----XXXXXXXX--------
+            34          
+            0           
+XXXX----XXXXXXXX--------
+                34      
+                0       
+XXXX----XXXXXXXX--------
+                    34  
+                    0   
+XXXX----XXXXXXXX--------
+                        
+                        
+XXXX----XXXXXXXX--------
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> 

@@ -14,7 +14,7 @@ CHECK_RIGHT_SPACING = False
 CHECK_NEW_LINE = False
 INPUT_PATTERN = ":>"
 FUDGE_LEFT_SPACE = True
-DEFAULT_COLOR = ColorText.fg.black
+DEFAULT_COLOR = ColorText.fg.lightgrey
 PASSED_COLOR = ColorText.fg.green
 CLEAN_UP = False
 

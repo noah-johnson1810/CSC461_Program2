@@ -11,20 +11,7 @@
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:>                         
-                        
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:> 3                       
+Choice:> How many units:> 16                      
 0                       
 --------XXXX--------XXXX
 
@@ -37,7 +24,7 @@ Choice:> 3
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:>     3                   
+Choice:>     16                  
     0                   
 --------XXXX--------XXXX
 
@@ -50,98 +37,7 @@ Choice:>     3
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:>         3               
-        0               
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>             3           
-            0           
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>                 3       
-                0       
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>                     3   
-                    0   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>                         
-                        
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:> 4                       
-0                       
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>     4                   
-    0                   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:> 5   4                   
+Choice:> How many units:> 17  16                  
 0   0                   
 --------XXXX--------XXXX
 
@@ -154,7 +50,20 @@ Choice:> 5   4
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:>     5   4               
+Choice:> How many units:> 17  16                  
+0   0                   
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:>     17  16              
     0   0               
 --------XXXX--------XXXX
 
@@ -167,8 +76,8 @@ Choice:>     5   4
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:> 6   5   4               
-0   0   0               
+Choice:>         17  16          
+        0   0           
 --------XXXX--------XXXX
 
 1) Add Default Box
@@ -180,8 +89,8 @@ Choice:> 6   5   4
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:>     6   5   4           
-    0   0   0           
+Choice:>             17  16      
+            0   0       
 --------XXXX--------XXXX
 
 1) Add Default Box
@@ -193,8 +102,8 @@ Choice:>     6   5   4
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:> 7   6   5   4           
-0   0   0   0           
+Choice:>                 17  16  
+                0   0   
 --------XXXX--------XXXX
 
 1) Add Default Box
@@ -206,111 +115,7 @@ Choice:> 7   6   5   4
 7) Make New Conveyer Belt
 0) Quit
 
-Choice:> 7   6   5   4           
-0   0   0   0           
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>     7   6   5   4       
-    0   0   0   0       
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>         7   6   5   4   
-        0   0   0   0   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:> 9       7   6   5   4   
-0       0   0   0   0   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>     9       7   6   5   
-    0       0   0   0   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>         9       7   6   
-        0       0   0   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>             9       7   
-            0       0   
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>                 9       
-                0       
---------XXXX--------XXXX
-
-1) Add Default Box
-2) Move Belt One Time Unit
-3) Move Belt X Time Units
-4) Show Station Details
-5) Add Box
-6) Make Tester Conveyer Belt
-7) Make New Conveyer Belt
-0) Quit
-
-Choice:>                     9   
+Choice:>                     17  
                     0   
 --------XXXX--------XXXX
 
@@ -324,6 +129,80 @@ Choice:>                     9
 0) Quit
 
 Choice:>                         
+                        
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> Please, input a positive integer
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> Please, input a positive integer
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> Please, input a positive integer
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many units:> 19                      
+0                       
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> How many updates:>     19                  
+    0                   
+--------XXXX--------XXXX
+        19              
+        0               
+--------XXXX--------XXXX
+            19          
+            0           
+--------XXXX--------XXXX
+                19      
+                0       
+--------XXXX--------XXXX
+                    19  
+                    0   
+--------XXXX--------XXXX
+                        
                         
 --------XXXX--------XXXX
 

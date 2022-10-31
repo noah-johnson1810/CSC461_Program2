@@ -1,0 +1,205 @@
+                        
+                        
+--------XXXX--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m7[0m
+Belt (1) or Station (2):> [34m[01m1[0m
+Length:> [34m[01m2[0m
+
+Add another component (n to stop):> [34m[01my[0m
+Belt (1) or Station (2):> [34m[01m2[0m
+Load behavior: None (1), Basic (2), or Percentage (3):> [34m[01m1[0m
+Packaging behavior: None (1), Basic (2), or Restricted (3):> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01mn[0m
+            
+            
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m1[0m
+32          
+0           
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m3[0m
+How many updates:> [34m[01m3[0m
+    32      
+    0       
+--------XXXX
+        32  
+        0   
+--------XXXX
+            
+            
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m5[0m
+How many units:> [34m[01m5[0m
+33          
+0           
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m3[0m
+How many updates:> [34m[01m2[0m
+    33      
+    0       
+--------XXXX
+        33  
+        0   
+--------XXXX
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m4[0m
+Station 1
+Has box: True
+Packaging: None
+
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m7[0m
+Belt (1) or Station (2):> [34m[01m2[0m
+Load behavior: None (1), Basic (2), or Percentage (3):> [34m[01m1[0m
+Packaging behavior: None (1), Basic (2), or Restricted (3):> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01my[0m
+Belt (1) or Station (2):> [34m[01m1[0m
+Length:> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01my[0m
+Belt (1) or Station (2):> [34m[01m2[0m
+Load behavior: None (1), Basic (2), or Percentage (3):> [34m[01m1[0m
+Packaging behavior: None (1), Basic (2), or Restricted (3):> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01my[0m
+Belt (1) or Station (2):> [34m[01m2[0m
+Load behavior: None (1), Basic (2), or Percentage (3):> [34m[01m1[0m
+Packaging behavior: None (1), Basic (2), or Restricted (3):> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01my[0m
+Belt (1) or Station (2):> [34m[01m1[0m
+Length:> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01my[0m
+Belt (1) or Station (2):> [34m[01m1[0m
+Length:> [34m[01m1[0m
+
+Add another component (n to stop):> [34m[01mn[0m
+                        
+                        
+XXXX----XXXXXXXX--------
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m1[0m
+34                      
+0                       
+XXXX----XXXXXXXX--------
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m3[0m
+How many updates:> [34m[01m6[0m
+    34                  
+    0                   
+XXXX----XXXXXXXX--------
+        34              
+        0               
+XXXX----XXXXXXXX--------
+            34          
+            0           
+XXXX----XXXXXXXX--------
+                34      
+                0       
+XXXX----XXXXXXXX--------
+                    34  
+                    0   
+XXXX----XXXXXXXX--------
+                        
+                        
+XXXX----XXXXXXXX--------
+
+1) Add Default Box
+2) Move Belt One Time Unit
+3) Move Belt X Time Units
+4) Show Station Details
+5) Add Box
+6) Make Tester Conveyer Belt
+7) Make New Conveyer Belt
+0) Quit
+
+Choice:> [34m[01m0[0m
